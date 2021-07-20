@@ -1,10 +1,10 @@
 # Developers' Guide
 
-This is the GitHub Repository for Developers' Guide. You can find all the free resources you need to get started with programming or build upon new skills all in one place. The resources are classified categorically. buzzinga
+This is the GitHub Repository for Developers' Guide. You can find all the free resources you need to get started with programming or build upon new skills all in one place. The resources are classified categorically.
 
 ## Introduction
 
-The amount of free resources that we can find today on the internet is often overwhelming to those willing to explore. On the contrary, a lot of people are unware of the existence of most of these resources due to lack of interest in thorough research. Hence, I would be categorically posting new resources everyday (can be a delayed sometimes). This would help you all eliminate the need to repeatedly search for material to study from. 
+The amount of free resources that we can find today on the internet is often overwhelming to those willing to explore. On the contrary, a lot of people are unware of the existence of most of these resources due to lack of interest in thorough research. Hence, this readme file has it all to get started.
 
 ## Categories
 
@@ -200,12 +200,3 @@ In Native Android Development we have two languages choices :-
 - Video Lectures by : [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
 - Video Lectures by : [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
 - Video Lectures by : [Simplified Coding](https://www.youtube.com/c/SimplifiedcodingNetOfficial/videos)
-
-
-
-
-
-
-
-
-
